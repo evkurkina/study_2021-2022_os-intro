@@ -1,7 +1,7 @@
 ---
 ## Front matter
 lang: ru-RU
-title: Structural approach to the deep learning method
+title: Лабораторная работа 3
 author: |
 	Куркина Евгения Вячеславовна
 institute: |
